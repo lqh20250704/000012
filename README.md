@@ -48,4 +48,4 @@ FilmGo官网
 定期更新，增强Google“Freshness”信号
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/lqh20250704/000012）</span>
